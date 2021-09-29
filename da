@@ -1,0 +1,29 @@
+[33mcommit 308e9ce397aad250d713dc02cb778ede2dc378e5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: adelincarabas <adelinromana@gmail.com>
+Date:   Wed Sep 29 15:43:08 2021 +0200
+
+    finished details for the js
+
+[33mcommit 0c6535d4179b99ee46395f02709583aada33b655[m
+Author: adelincarabas <adelinromana@gmail.com>
+Date:   Wed Sep 29 15:38:40 2021 +0200
+
+    finished the reset and making a selector for which score is a winning score
+
+[33mcommit 7b251894469f41602c3f3b07c4d2e7dfa0ecff9c[m
+Author: adelincarabas <adelinromana@gmail.com>
+Date:   Wed Sep 29 15:13:45 2021 +0200
+
+    added the logic of adder for numbers until the game is finished
+
+[33mcommit be0d8d19a2c46b12c454b5e4df7490c234754368[m
+Author: adelincarabas <adelinromana@gmail.com>
+Date:   Wed Sep 29 14:52:49 2021 +0200
+
+    finished the html
+
+[33mcommit 5091b370a136c09f2d84df535478e77ef6674626[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: adelincarabas <adelinromana@gmail.com>
+Date:   Wed Sep 29 14:21:45 2021 +0200
+
+    started the project
